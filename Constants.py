@@ -10,14 +10,14 @@ class ConstantsClass:
     ClMaxEstimate = 2.1
     Cd0 = 0.01096
     #Mass Ratio is BetaS
-    AspectRatio = 10
+    AspectRatio = 10 
     OswaldFactor = 0.682
     StallSpeed = 70
     LandingAltitude = 1600
     LandingDensity = 1.04759
     RateOfClimb = 15
     Kt = 0.85
-    FlapExtensionRatio = 1.35
+    FlapExtensionRatio = 1.21
     FuselageDiameter = 3
     #ClMaxRatio is the ratio of CLmax of the wing to the ClMax of the airfoil
     ClMaxRatio = 0.82
@@ -83,6 +83,10 @@ class ConstantsClass:
     TemperatureAtTakeoff = 288.15
     DensityAtTakeoff = 1.225
     Gamma = 1.4
+
+#VERSIONS: 
+
+Constants = ConstantsClass()
 
 #VERSIONS: 
 
