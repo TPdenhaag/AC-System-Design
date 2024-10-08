@@ -1,2 +1,0 @@
-from Constants import Constants as Cs
-import Wing as wi
