@@ -12,7 +12,7 @@ Cl_alpha_deg = 0.085
 Cl_alpha_rad = 7.26
 wing_area = S #m^2
 C_d0 = Constants.Cd0
-velocity = Constants.CruiseSpeed #m/s
+velocity = 70 #m/s
 
 #Now the aileron specs
 aileron_efficiency = 0.32
